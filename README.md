@@ -1,4 +1,4 @@
-# catnose99/timeline
+# hideki-okawa/timeline
 
 [![deploy on vercel](https://github.com/catnose99/timeline/actions/workflows/deployment.yml/badge.svg?branch=main)](https://github.com/catnose99/timeline/actions/workflows/deployment.yml)
 
